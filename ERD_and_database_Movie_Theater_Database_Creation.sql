@@ -1,7 +1,7 @@
 CREATE TABLE theater (
 	theater_id SERIAL PRIMARY KEY,
 	theater_name VARCHAR(150),
-	location VARCHAR(150)
+	location_ VARCHAR(150)
 );
 
 
